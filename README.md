@@ -1,21 +1,41 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Vic%20Rodr%C3%ADguez&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:2563eb&height=220&section=header&text=Vic%20Rodr%C3%ADguez&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Desarrollador%20Full-Stack&descSize=20&descAlignY=58" width="100%" alt="Header" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Desarrollador+Full-Stack;Sistemas+para+organizaciones+p%C3%BAblicas+y+privadas;Integrando+IA+y+voz+en+productos+reales;Construyendo+de+punta+a+punta" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=760&lines=Sistemas+para+organizaciones+p%C3%BAblicas+y+privadas;Integrando+IA+y+voz+en+productos+reales;Plataformas+geoespaciales+y+de+gesti%C3%B3n;Construyendo+de+punta+a+punta" alt="Typing SVG" />
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vicrosa2002&label=Visitas&color=2563eb&style=for-the-badge" alt="Visitas" />
+  <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-M%C3%A9xico-0f172a?style=for-the-badge" alt="Ubicación" />
+  <img src="https://img.shields.io/badge/Enfoque-Full--Stack-2563eb?style=for-the-badge" alt="Enfoque" />
+</p>
+
+---
+
 ## Sobre mí
 
-- Desarrollo aplicaciones web full-stack de punta a punta, con enfoque en sistemas de gestión
+Soy desarrollador full-stack y me gusta construir sistemas completos: desde la base de datos y la API hasta la interfaz que usa la gente todos los días. Trabajo principalmente en software para instituciones, donde la confiabilidad, los permisos por rol y la facilidad de uso importan tanto como el código.
+
+- Desarrollo aplicaciones web de punta a punta, con enfoque en sistemas de gestión
 - Diseño y administro bases de datos relacionales, geoespaciales y vectoriales
 - Integro APIs de inteligencia artificial, voz y mensajería en productos reales
 - Implemento pasarelas de pago y flujos de firma electrónica
-- Construyo plataformas geoespaciales y de administración para instituciones
 - Despliego servicios con contenedores, Nginx y servidores en la nube
+
+## Lo que construyo
+
+| Tipo de sistema | Qué incluye |
+| --- | --- |
+| Gestión institucional | Control de inventarios, padrones, expedientes, roles y reportes para dependencias públicas |
+| Plataformas geoespaciales | Mapas interactivos con capas, secciones y municipios, carga de datos desde Excel y análisis espacial |
+| Centros de atención con IA | Telefonía, transcripción de voz, base de conocimiento con búsqueda semántica y respuestas asistidas |
+| Puntos de venta offline-first | Operación sin internet, sincronización automática, multi-sucursal e impresión de tickets |
+| Comunicación masiva | Campañas de llamadas y mensajes con seguimiento de estados en tiempo real |
+| Integraciones | Firma electrónica, pasarelas de pago, servicios de terceros vía API |
 
 ## Stack
 
@@ -24,8 +44,19 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+</p>
+
+### Diseño
+<p>
+  <img src="https://img.shields.io/badge/Material_Design-757575?style=for-the-badge&logo=materialdesign&logoColor=white" alt="Material Design" />
+  <img src="https://img.shields.io/badge/Material_You-6750A4?style=for-the-badge&logo=materialdesign&logoColor=white" alt="Material You" />
+  <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" />
+  <img src="https://img.shields.io/badge/Google_Fonts-4285F4?style=for-the-badge&logo=googlefonts&logoColor=white" alt="Google Fonts" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
 ### Frontend
@@ -33,8 +64,6 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" />
   <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge" alt="Zustand" />
   <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge" alt="PWA" />
 </p>
@@ -93,6 +122,40 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
+## Cómo trabajo
+
+- Entrego sistemas completos y probados, con pruebas automatizadas en backend y frontend
+- Diseño pensando en usuarios no técnicos: interfaces claras, permisos por rol y mensajes simples
+- Documento lo que construyo para que otras personas puedan darle seguimiento
+- Cuido la seguridad y el cumplimiento antes de publicar: HTTPS, privacidad, accesibilidad y SEO
+
+## Estadísticas de GitHub
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Vicrosa2002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Vicrosa2002&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" alt="Estadísticas de GitHub" height="170" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Vicrosa2002&layout=compact&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vicrosa2002&layout=compact&theme=default&hide_border=true" alt="Lenguajes principales" height="170" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Vicrosa2002&theme=tokyonight&hide_border=true" />
+    <img src="https://streak-stats.demolab.com?user=Vicrosa2002&theme=default&hide_border=true" alt="Racha de contribuciones" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Vicrosa2002&theme=tokyo-night&hide_border=true&area=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vicrosa2002&theme=github-compact&hide_border=true&area=true" alt="Gráfica de actividad" />
+  </picture>
+</p>
+
 ## Intereses
 
 - Inteligencia artificial aplicada a problemas reales
@@ -107,5 +170,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1d4ed8,100:0f172a&height=100&section=footer" width="100%" alt="Footer" />
 </p>
